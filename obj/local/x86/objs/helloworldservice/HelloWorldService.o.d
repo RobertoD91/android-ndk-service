@@ -1,329 +1,318 @@
-C:/Users/gper4/git/secsi/android-deps/android-ndk-service/obj/local/x86/objs/helloworldservice/HelloWorldService.o: \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\HelloWorldService.cpp \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iostream \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ios \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__locale \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\version \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\new \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cassert \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\mutex \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\system_error \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__errc \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\istream \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ostream \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\locale \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\bitset \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IPCThreadState.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Errors.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\Parcel.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\native_handle.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\RefBase.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\atomic.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\StrongPointer.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\String16.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\SharedBuffer.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Unicode.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Vector.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Log.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\log.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\VectorImpl.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\TypeHelpers.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\ProcessState.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IBinder.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\KeyedVector.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\SortedVector.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\String8.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\threads.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\AndroidThreads.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\ThreadDefs.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics.h \
-  C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.0.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.1.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.2.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-sw.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Condition.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Mutex.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Timers.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\RWLock.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Thread.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IServiceManager.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IInterface.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\Binder.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IPermissionController.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\HelloWorldService.hpp \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\IHelloWorldService.hpp \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\MemoryHeapBase.h \
-  C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IMemory.h
+./obj/local/x86/objs/helloworldservice/HelloWorldService.o: \
+  jni/HelloWorldService.cpp \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iostream \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__config \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ios \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iosfwd \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/wchar.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__locale \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string_view \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__string \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/algorithm \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/initializer_list \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstddef \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/version \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/type_traits \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstring \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/utility \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__tuple \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdint \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdint.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__debug \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/memory \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/typeinfo \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/exception \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdlib \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdlib.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/new \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/limits \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iterator \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__functional_base \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/tuple \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdexcept \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/atomic \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__threading_support \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/chrono \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ctime \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ratio \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/climits \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/limits.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/errno.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/functional \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/bit \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdio \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdio.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cwchar \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cwctype \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cctype \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ctype.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/wctype.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/mutex \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__mutex_base \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/system_error \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__errc \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cerrno \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/locale.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/support/android/locale_bionic.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/support/xlocale/__posix_l_fallback.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/streambuf \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/istream \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ostream \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/locale \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdarg \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__bsd_locale_fallbacks.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/bitset \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__bit_reference \
+  jni/include/binder/binder/IPCThreadState.h \
+  jni/include/utils/utils/Errors.h jni/include/binder/binder/Parcel.h \
+  jni/include/cutils/cutils/native_handle.h \
+  jni/include/utils/utils/RefBase.h jni/include/cutils/cutils/atomic.h \
+  jni/include/utils/utils/StrongPointer.h \
+  jni/include/utils/utils/String16.h \
+  jni/include/utils/utils/SharedBuffer.h \
+  jni/include/utils/utils/Unicode.h jni/include/utils/utils/Vector.h \
+  jni/include/utils/utils/Log.h jni/include/cutils/cutils/log.h \
+  jni/include/utils/utils/VectorImpl.h \
+  jni/include/utils/utils/TypeHelpers.h \
+  jni/include/binder/binder/ProcessState.h \
+  jni/include/binder/binder/IBinder.h \
+  jni/include/utils/utils/KeyedVector.h \
+  jni/include/utils/utils/SortedVector.h \
+  jni/include/utils/utils/String8.h jni/include/utils/utils/threads.h \
+  jni/include/utils/utils/AndroidThreads.h \
+  jni/include/utils/utils/ThreadDefs.h \
+  jni/include/system/system/graphics.h \
+  /Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stddef.h \
+  jni/include/system/system/graphics-base.h \
+  jni/include/system/system/graphics-base-v1.0.h \
+  jni/include/system/system/graphics-base-v1.1.h \
+  jni/include/system/system/graphics-base-v1.2.h \
+  jni/include/system/system/graphics-sw.h \
+  jni/include/utils/utils/Condition.h jni/include/utils/utils/Mutex.h \
+  jni/include/utils/utils/Timers.h jni/include/utils/utils/RWLock.h \
+  jni/include/utils/utils/Thread.h \
+  jni/include/binder/binder/IServiceManager.h \
+  jni/include/binder/binder/IInterface.h \
+  jni/include/binder/binder/Binder.h \
+  jni/include/binder/binder/IPermissionController.h \
+  jni/HelloWorldService.hpp jni/IHelloWorldService.hpp \
+  jni/include/binder/binder/MemoryHeapBase.h \
+  jni/include/binder/binder/IMemory.h
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iostream:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iostream:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__config:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ios:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ios:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iosfwd:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/wchar.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__locale:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__locale:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string_view:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__string:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/algorithm:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/initializer_list:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstddef:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\version:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/version:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/type_traits:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstring:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/string.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/utility:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__tuple:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdint:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdint.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__debug:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/memory:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/typeinfo:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/exception:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdlib:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdlib.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\new:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/new:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/limits:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/iterator:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__functional_base:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/tuple:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdexcept:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cassert:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/atomic:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__threading_support:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/chrono:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ctime:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ratio:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/climits:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/limits.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/errno.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/functional:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/bit:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdio:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\mutex:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stdio.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cwchar:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cwctype:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cctype:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ctype.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/wctype.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/mutex:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\system_error:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__mutex_base:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__errc:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/system_error:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__errc:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cerrno:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/locale.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/support/android/locale_bionic.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/support/xlocale/__posix_l_fallback.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\support\xlocale\__posix_l_fallback.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/streambuf:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/istream:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\istream:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/ostream:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\ostream:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/locale:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\locale:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/cstdarg:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__bsd_locale_fallbacks.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/bitset:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\bitset:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/__bit_reference:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
+jni/include/binder/binder/IPCThreadState.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IPCThreadState.h:
+jni/include/utils/utils/Errors.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Errors.h:
+jni/include/binder/binder/Parcel.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\Parcel.h:
+jni/include/cutils/cutils/native_handle.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\native_handle.h:
+jni/include/utils/utils/RefBase.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\RefBase.h:
+jni/include/cutils/cutils/atomic.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\atomic.h:
+jni/include/utils/utils/StrongPointer.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\StrongPointer.h:
+jni/include/utils/utils/String16.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\String16.h:
+jni/include/utils/utils/SharedBuffer.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\SharedBuffer.h:
+jni/include/utils/utils/Unicode.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Unicode.h:
+jni/include/utils/utils/Vector.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Vector.h:
+jni/include/utils/utils/Log.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Log.h:
+jni/include/cutils/cutils/log.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\cutils\cutils\log.h:
+jni/include/utils/utils/VectorImpl.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\VectorImpl.h:
+jni/include/utils/utils/TypeHelpers.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\TypeHelpers.h:
+jni/include/binder/binder/ProcessState.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\ProcessState.h:
+jni/include/binder/binder/IBinder.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IBinder.h:
+jni/include/utils/utils/KeyedVector.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\KeyedVector.h:
+jni/include/utils/utils/SortedVector.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\SortedVector.h:
+jni/include/utils/utils/String8.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\String8.h:
+jni/include/utils/utils/threads.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\threads.h:
+jni/include/utils/utils/AndroidThreads.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\AndroidThreads.h:
+jni/include/utils/utils/ThreadDefs.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\ThreadDefs.h:
+jni/include/system/system/graphics.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics.h:
+/Users/Roberto/Library/Android/sdk/ndk/22.0.7026061/sources/cxx-stl/llvm-libc++/include/stddef.h:
 
-C:\Users\gper4\bin\android-ndk-r21d-windows-x86_64\android-ndk-r21d\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+jni/include/system/system/graphics-base.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base.h:
+jni/include/system/system/graphics-base-v1.0.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.0.h:
+jni/include/system/system/graphics-base-v1.1.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.1.h:
+jni/include/system/system/graphics-base-v1.2.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-base-v1.2.h:
+jni/include/system/system/graphics-sw.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\system\system\graphics-sw.h:
+jni/include/utils/utils/Condition.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Condition.h:
+jni/include/utils/utils/Mutex.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Mutex.h:
+jni/include/utils/utils/Timers.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Timers.h:
+jni/include/utils/utils/RWLock.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\RWLock.h:
+jni/include/utils/utils/Thread.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\utils\utils\Thread.h:
+jni/include/binder/binder/IServiceManager.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IServiceManager.h:
+jni/include/binder/binder/IInterface.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IInterface.h:
+jni/include/binder/binder/Binder.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\Binder.h:
+jni/include/binder/binder/IPermissionController.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IPermissionController.h:
+jni/HelloWorldService.hpp:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\HelloWorldService.hpp:
+jni/IHelloWorldService.hpp:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\IHelloWorldService.hpp:
+jni/include/binder/binder/MemoryHeapBase.h:
 
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\MemoryHeapBase.h:
-
-C:\Users\gper4\git\secsi\android-deps\android-ndk-service\jni\include\binder\binder\IMemory.h:
+jni/include/binder/binder/IMemory.h:
