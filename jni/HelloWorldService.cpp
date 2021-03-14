@@ -15,15 +15,9 @@ void	HelloWorldService::instantiate()
     }
 }
 
-HelloWorldService::HelloWorldService()
-{
+HelloWorldService::HelloWorldService(){}
 
-}
-
-HelloWorldService::~HelloWorldService()
-{
-
-}
+HelloWorldService::~HelloWorldService(){}
 
 // questa funzione verra' impostata come callback del service
 void	HelloWorldService::hello()

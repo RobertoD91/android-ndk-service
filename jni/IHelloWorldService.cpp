@@ -6,7 +6,7 @@
 
 using namespace android;
 
-// il service stende l'interfaccia BpInterface
+// il service estende l'interfaccia BpInterface
 class BpHelloWorldService : public BpInterface<IHelloWorldService>
 {
 public:
