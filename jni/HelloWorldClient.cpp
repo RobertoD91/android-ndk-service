@@ -7,7 +7,7 @@ using namespace android;
 int	main()
 {
   sp<IHelloWorldService>	mHelloWorldService;
-
+  // il metodo getService restituisce un puntatore al Binder
   if (getService(String16("HelloWorldService"), &mHelloWorldService) != NO_ERROR)
     {
       std::cerr << "HelloWorldService is not available" << std::endl;

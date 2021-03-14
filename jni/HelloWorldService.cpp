@@ -25,6 +25,7 @@ HelloWorldService::~HelloWorldService()
 
 }
 
+// questa funzione verra' impostata come callback del service
 void	HelloWorldService::hello()
 {
   std::cout << "Hello World !" << std::endl;
@@ -36,6 +37,7 @@ int	main()
   sp<IServiceManager>	sm = defaultServiceManager();
 
   HelloWorldService::instantiate();
+  // il main thread non può usare il binder
   ProcessState::self()->startThreadPool();
   IPCThreadState::self()->joinThreadPool();
   return 0;

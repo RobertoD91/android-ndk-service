@@ -6,6 +6,7 @@
 
 using namespace android;
 
+// il service stende l'interfaccia BpInterface
 class BpHelloWorldService : public BpInterface<IHelloWorldService>
 {
 public:
@@ -29,6 +30,7 @@ BnHelloWorldService::BnHelloWorldService()
 {
 }
 
+// quando viene ricevuto un Parcel viene selezionato il caso appropriato
 status_t	BnHelloWorldService::onTransact(uint32_t code, const Parcel &data, Parcel *reply, uint32_t flags)
 {
   switch (code) {
